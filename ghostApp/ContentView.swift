@@ -42,7 +42,7 @@ struct ContentView: View {
             Button(action: {
                 self.startOver()
             }) {
-                Text("Start over")
+                Text("Start Over")
             }
             Spacer()
             } //vstack end
